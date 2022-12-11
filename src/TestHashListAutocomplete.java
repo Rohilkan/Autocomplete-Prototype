@@ -4,10 +4,6 @@ import java.util.*;
 
 /**
  * Testing HashListAutocomplete for correctness
- * @author Daniel Hwang
- * @author Matthew Giglio
- * @author Emily Du
- *
  */
 
 public class TestHashListAutocomplete {

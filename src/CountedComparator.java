@@ -5,10 +5,6 @@ import java.util.Comparator;
  * of comparisons can be accessed. Wrap the comparator
  * supplied in constructor in this one, all calls passed
  * through to supplied comparator and counted.
- * 
- * @author ola
- *
- * @param <E>
  */
 public class CountedComparator<E extends Comparable<E>> implements Comparator<E> {
 	private Comparator<E> myComparator;

@@ -4,9 +4,6 @@ import javax.swing.SwingUtilities;
 
 /**
  * Main class for the Autocomplete program.
- * 
- * @author Austin Lu
- * @author Owen Astrachan
  *
  */
 public class AutocompleteMain {

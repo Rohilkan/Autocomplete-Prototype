@@ -1,5 +1,4 @@
 /*************************************************************************
- * @author Matthew Drabick, adapted by Austin Lu for COMPSCI 201 Autocomplete,
  * 
  * Interactive GUI used to demonstrate the Autocomplete data type.
  *

@@ -4,9 +4,6 @@ import java.util.*;
  * Facilitates using fast binary search with
  * a Comparator. The methods firstIndex and lastIndex
  * run in time ceiling(1 + log(n)) where n is size of list.
- * 
- * @author ola for framework
- * @author 201 student implementing firstIndex and lastIndex
  *
  */
 public class BinarySearchLibrary {

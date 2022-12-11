@@ -6,11 +6,7 @@ import java.io.File;
 /**
  * This utility class creates a thread safe file dialog box for loading and
  * saving files.
- * 
- * @author Duke Software Team
- * 
- *         This software is licensed with an Apache 2 license, see
- *         http://www.apache.org/licenses/LICENSE-2.0 for details.
+ *
  */
 class FileSelector {
     // result of selection
