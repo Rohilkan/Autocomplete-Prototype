@@ -2,7 +2,6 @@ import java.util.*;
 
 /**
  * Testing BinarySearchLibrary for correctness
- * @author ola
  *
  */
 public class TestBinarySearchLibrary {
