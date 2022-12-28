@@ -58,11 +58,5 @@ public class    PrefixComparator implements Comparator<Term> {
             }
         }
         return 0;
-        /* 
-        int comp = v.getWord().substring(0,myPrefixSize)
-        .compareTo(w.getWord().substring(0,myPrefixSize));
-        if (comp == 0 && v.getWord().length() < w.getWord().length()){return -1;}
-        if (comp == 0 && v.getWord().length() > w.getWord().length()){return 1;}
-        return comp;*/
     }
 }
